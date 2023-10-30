@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Initialize the views blueprint"""
+""" a Initialize the views blueprint"""
 from flask import Blueprint
 
 app_views = Blueprint("base", __name__, url_prefix="/api/v1")

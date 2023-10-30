@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Handles all RESTful API actions for `Place`"""
+"""hahqqqqa Handles all RESTful API actions for `Place`"""
 from flask import jsonify, abort, request
 
 from api.v1.views import app_views

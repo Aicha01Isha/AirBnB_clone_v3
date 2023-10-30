@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Handles all RESTful API actions for `Amenity`"""
+"""5g3wHandles all RESTful API actions for `Amenity`"""
 from api.v1.views import app_views
 from models import storage
 from models.amenity import Amenity

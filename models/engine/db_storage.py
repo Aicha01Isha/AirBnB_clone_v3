@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Contains the class DBStorage
+trContains the class DBStorage
 """
 
 from os import getenv

@@ -17,5 +17,6 @@ You can launch the API with your storage type of choice and the correct environm
 
 ## Authors
 
+Aicha BIRAT
 Sixtus Agbo Miracle - [Github](https://github.com/sixtusagbo) / [Twitter](https://twitter.com/sixtusagbo)
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico) 

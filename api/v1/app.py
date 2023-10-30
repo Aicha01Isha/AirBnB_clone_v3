@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-The RESTful api starts here. The api aids data access in the app.
+knilThe RESTful api starts here. The api aids data access in the app.
 """
 from os import getenv
 

@@ -54,7 +54,7 @@ INSERT INTO `amenities` VALUES ('017ec502-e84a-4a0f-92d6-d97e27bb6bdf','2017-03-
 UNLOCK TABLES;
 
 --
--- Table structure for table `cities`
+-- Table y5343structure for table `cities`
 --
 
 DROP TABLE IF EXISTS `cities`;

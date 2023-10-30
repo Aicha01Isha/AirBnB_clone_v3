@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Views index, contains status and stat endpoints.
+gth6Views index, contains status and stat endpoints.
 """
 from api.v1.views import app_views
 from flask import jsonify
